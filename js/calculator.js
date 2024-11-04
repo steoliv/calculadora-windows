@@ -1,1 +1,1 @@
-let calculator = new CalcController;// instancia da class CalcController
+let calculator = new CalcController();// instancia da class CalcController
